@@ -4,22 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97eee2e6-2742-4947-a463-040b051d4fa3" name="Changes" comment="" />
+    <list default="true" id="97eee2e6-2742-4947-a463-040b051d4fa3" name="Changes" comment="Added Config package">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/Config/BeanConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2M2WbqaY0DnGA9oArd8IRjB238A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -51,6 +70,70 @@
       <option name="presentableId" value="Default" />
       <updated>1676966235365</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit.">
+      <created>1676966296557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966296557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added domain class called User">
+      <created>1676966476941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966476941</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added domain class called Product">
+      <created>1676966552585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966552585</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added attributes in domain class">
+      <created>1676966687275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966687275</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added constructors in domain class Product">
+      <created>1676966766569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966766569</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added getters and setters in domain class Product">
+      <created>1676966800727</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966800727</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added equals and hashcode in domain class Product">
+      <created>1676966849085</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966849085</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added toString() in domain class Product">
+      <created>1676966895755</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966895755</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Config package">
+      <created>1676966973882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676966973882</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +146,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit." />
+    <MESSAGE value="Added domain package" />
+    <MESSAGE value="Added domain class called Product" />
+    <MESSAGE value="Added attributes in domain class" />
+    <MESSAGE value="Added constructors in domain class Product" />
+    <MESSAGE value="Added getters and setters in domain class Product" />
+    <MESSAGE value="Added equals and hashcode in domain class Product" />
+    <MESSAGE value="Added toString() in domain class Product" />
+    <MESSAGE value="Added Config package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Config package" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
