@@ -1,5 +1,7 @@
 package com.niit.domain;
 
+import java.util.Objects;
+
 public class Product {
 
     private  int productId;
@@ -48,4 +50,19 @@ public class Product {
     public void setProductColor(String productColor) {
         this.productColor = productColor;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Product)) return false;
+        Product product = (Product) o;
+        return getProductId() == product.getProductId() && Double.compare(product.getProductPrice(), getProductPrice()) == 0 && getProductName().equals(product.getProductName()) && getProductColor().equals(product.getProductColor());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getProductId(), getProductName(), getProductPrice(), getProductColor());
+    }
+
+
 }
