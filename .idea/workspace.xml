@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97eee2e6-2742-4947-a463-040b051d4fa3" name="Changes" comment="Added Config package">
+    <list default="true" id="97eee2e6-2742-4947-a463-040b051d4fa3" name="Changes" comment="Added dependency.">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/Config/BeanConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/domain/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/domain/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676966973882</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added dependency.">
+      <created>1676967490026</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676967490026</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +167,8 @@
     <MESSAGE value="Added equals and hashcode in domain class Product" />
     <MESSAGE value="Added toString() in domain class Product" />
     <MESSAGE value="Added Config package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Config package" />
+    <MESSAGE value="Added dependency." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added dependency." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
