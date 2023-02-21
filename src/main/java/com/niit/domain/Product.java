@@ -64,5 +64,13 @@ public class Product {
         return Objects.hash(getProductId(), getProductName(), getProductPrice(), getProductColor());
     }
 
-
+    @Override
+    public String toString() {
+        return "Product{" +
+                "productId=" + productId +
+                ", productName='" + productName + '\'' +
+                ", productPrice=" + productPrice +
+                ", productColor='" + productColor + '\'' +
+                '}';
+    }
 }
